@@ -1,0 +1,34 @@
+.deposit-form {
+    padding: 5px;
+}
+
+.deposit-form > input:hover {
+    background-color: lightpink;
+    cursor:pointer;
+}
+
+.btn > input {
+    padding: 5px;
+    background-color: rgb(251, 202, 129);
+    color: whitesmoke;
+    border-radius: 5px;
+}
+
+.btn > input:hover {
+    background-color:  lightpink;
+    cursor: pointer;
+    border-radius: 10px;
+    width: 100px;
+}
+
+.wrapper {
+    margin-left: 9px;
+}
+
+.applicant > label {
+padding: 5px;
+}
+
+.applicant > input:hover {
+    background-color:  lightpink;
+}

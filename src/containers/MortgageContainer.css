@@ -1,0 +1,11 @@
+body {
+    background-color: navajowhite;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 {
+    color: whitesmoke;
+    background-color: rgb(251, 202, 129);
+    margin: 10px 5px;
+    border-radius: 8px;
+}

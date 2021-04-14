@@ -1,0 +1,8 @@
+.salary {
+    padding: 5px;
+}
+
+.salary > input:hover {
+    background-color: lightpink;
+    cursor: pointer;
+}
